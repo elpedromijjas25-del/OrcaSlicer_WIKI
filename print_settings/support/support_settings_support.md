@@ -1,6 +1,6 @@
 # Support
 
-[Mode](option_mode): `Developer`.  
+[Mode](option_mode): `true`.  
 [Variables](built_in_placeholders_variables): `enable_support`, `enforce_support_layers`.  
 Support structures are used in 3D printing to provide stability to overhangs and complex geometries.
 
